@@ -1,4 +1,4 @@
-## Interface: 110002
+## Interface: 110105, 110107, 110200
 ## Title: SlashKey
 ## Notes: Adds /key command as shortcut for Details! keystone command
 ## Version: 1.0
