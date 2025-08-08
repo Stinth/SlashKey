@@ -1,7 +1,7 @@
 ## Interface: 110105, 110107, 110200
 ## Title: SlashKey
 ## Notes: Adds /key command as shortcut for Details! keystone command
-## Version: 1.0
+## Version: 1.0.5
 ## Author: Stinth
 ## Dependencies: Details
 
